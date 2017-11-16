@@ -1,3 +1,14 @@
+# sk-notes specific
+bin/
+include/
+pip-selfcheck.json
+
+# IDE
+.idea/
+
+# Database
+*.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
